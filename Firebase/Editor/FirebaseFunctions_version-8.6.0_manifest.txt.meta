@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 906aec09426e4dba90ebaf7b0a77770f
+guid: cbbafb6139fc4bea91c6a49f0b88e7ee
 labels:
 - gvh
 - gvh_manifest
-- gvh_version-8.5.0
-- gvhp_exportpath-Firebase/Editor/FirebaseFunctions_version-8.5.0_manifest.txt
+- gvh_version-8.6.0
+- gvhp_exportpath-Firebase/Editor/FirebaseFunctions_version-8.6.0_manifest.txt
 - gvhp_manifestname-0Cloud Functions for Firebase
 - gvhp_manifestname-1FirebaseFunctions
 timeCreated: 0
